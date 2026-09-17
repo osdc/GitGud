@@ -1,0 +1,1 @@
+" Also, them mentioning to pull the code before setting the origin in GIT" 

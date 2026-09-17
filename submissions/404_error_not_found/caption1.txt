@@ -1,0 +1,1 @@
+"OSDC gathering students to teach them about GIT and GITHUB" 
